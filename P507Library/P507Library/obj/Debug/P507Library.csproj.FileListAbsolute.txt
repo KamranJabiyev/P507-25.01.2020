@@ -1,0 +1,5 @@
+E:\project\P507\P507Library\P507Library\bin\Debug\P507Library.dll
+E:\project\P507\P507Library\P507Library\bin\Debug\P507Library.pdb
+E:\project\P507\P507Library\P507Library\obj\Debug\P507Library.csprojAssemblyReference.cache
+E:\project\P507\P507Library\P507Library\obj\Debug\P507Library.dll
+E:\project\P507\P507Library\P507Library\obj\Debug\P507Library.pdb
