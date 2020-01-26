@@ -1,0 +1,6 @@
+E:\project\P507\Modifiers\Modifiers\bin\Debug\Modifiers.exe.config
+E:\project\P507\Modifiers\Modifiers\bin\Debug\Modifiers.exe
+E:\project\P507\Modifiers\Modifiers\bin\Debug\Modifiers.pdb
+E:\project\P507\Modifiers\Modifiers\obj\Debug\Modifiers.csprojAssemblyReference.cache
+E:\project\P507\Modifiers\Modifiers\obj\Debug\Modifiers.exe
+E:\project\P507\Modifiers\Modifiers\obj\Debug\Modifiers.pdb
